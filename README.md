@@ -1,25 +1,29 @@
-# Drone Development using crossflight & ArduPilot
+# Drone Development using Crossflight Flight Controller & ArduPilot
 
 ## Overview
-Built and tested a drone using APM 2.8, Crossflight, and DJI Naza-M Lite.
+Designed and built a drone using Crossflight flight controller integrated with ArduPilot.
 
 ## Features
-- Flight stabilization
-- Sensor calibration
-- ESC tuning
+- Flight stabilization and control
+- Sensor calibration and tuning
+- ESC configuration and motor control
 
-## Components Used
-- APM 2.8 Flight Controller
+## Hardware Used
+- Crossflight Flight Controller
 - Brushless Motors
 - ESCs
 - LiPo Battery
 
-## Software
+## Software Used
 - ArduPilot
 - Mission Planner
 
-## What I Learned
-- PID tuning
-- Flight control systems
-- Sensor integration
+## Implementation
+- Configured flight parameters using Mission Planner
+- Performed PID tuning for stable flight
+- Calibrated sensors (accelerometer, compass)
 
+## What I Learned
+- UAV control systems
+- Flight controller configuration
+- Real-world debugging and tuning
